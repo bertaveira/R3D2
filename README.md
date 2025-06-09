@@ -8,18 +8,11 @@
 </p>
 
 <div align="center">
-<h4 style="font-size:1.5em;">
-R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation
-</h4>
-</div>
-<div align="center">
+<h4 align="center">R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation</h4>
 
-<div align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/_static/imgs/dino-feats.png" />
-    <img alt="tyro logo" src="docs/_static/imgs/method_diagram.png" width="80%"/>
-</picture>
-</div>
+<p align="center">
+  <img src="docs/_static/imgs/method_diagram.png" alt="method diagram" width="80%"/>
+</p>
 
 [Project page](https://research.zenseact.com/publications/gasp/)  ·
 [About](#about)  ·
