@@ -14,7 +14,7 @@
   <img src="docs/_static/imgs/method_diagram.png" alt="method diagram" width="80%"/>
 </p>
 
-[Project page](https://research.zenseact.com/publications/gasp/)  ·
+[Project page](https://research.zenseact.com/publications/R3D2/)  ·
 [About](#about)  ·
 [TODOs](#todos)
 
